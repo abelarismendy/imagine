@@ -1,0 +1,1284 @@
+[
+    {
+        "id": 1,
+        "nombreProyecto": "Ambiente de Apoyo al Aprendizaje de Estructuras de Datos",
+        "grupo": "Imagine",
+        "researchArea": "Human Computer Interaction",
+        "descripcion": "Las estructuras de datos son un tema fundamental que se aborda en la formación como ingenieros de sistemas. Para facilitar el aprendizaje de este tema se propone construir una herramienta visual que permita realizar validaciones de la implementación de una estructura de datos y de las operaciones que se realizan sobre ella. Como resultado, se obtiene una aplicación en Python que permite trabajar con las estructuras listas enlazadas, árboles binarios ordenados y grafos.",
+        "integrantes": [
+            "prof-fernandodelarosa",
+            "ugrad-alum-vhanessaCardona"
+        ],
+        "foto": "aprendizajeEstructuras.png",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 2,
+        "nombreProyecto": "Diseño de un Sistema para la Automatización de Tareas de Inspección de Estructuras Físicas Sencillas Utilizando un Dron",
+        "grupo": "Imagine",
+        "researchArea": "Robotics",
+        "descripcion": "La inspección de estructuras físicas es una tarea crítica, y omitir algún detalle puede tener consecuencias desastrosas. Al pilotear manualmente un dron, existe el riesgo de que el piloto no cubra en su totalidad la estructura y se pierda información sumamente importante. Se propone un sistema basado en la existencia de un modelo tridimensional de la estructura a inspeccionar, donde el usuario inspector solo tenga que introducir algunos parámetros básicos y un dron sea capaz de ejecutar la tarea de inspección automáticamente",
+        "integrantes": [
+            "prof-fernandodelarosa",
+            "master-davidOviedo"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 3,
+        "nombreProyecto": "Defensor de la cultura",
+        "grupo": "Imagine",
+        "researchArea": "Video Games",
+        "descripcion": "Videojuego educativo desarrollado en Unity",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-gabrielSerna",
+            "ugrad-alum-camiloOtalora",
+            "ugrad-arturoRubio"
+        ],
+        "foto": "defensorCultura.png",
+        "video": "https://www.youtube.com/embed/eM0-8YLHb84",
+        "link": "",
+        "repository": "https://github.com/Arturony/Tesis_2022",
+        "lastUpdated": ""
+    },
+    {
+        "id": 4,
+        "nombreProyecto": "Desarrollo Humano Para Valientes",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Este es un proyecto en curso desarrollado en colaboración con el PNUD. El proyecto consiste en ayudar a las comunidades a comunicar sus problemas (en torno a los ODS), enseñándoles a grabar videos de empatía 360 para contar sus historias. Se desarrollará un MOOC (Massive Open Online Course) en Coursera que servirá como una plataforma donde las personas experimentarán estas historias y propondrán soluciones junto con las comunidades para abordar estos problemas. (2022, Universidad de los Andes).",
+        "integrantes": [
+            "master-alum-camiloUseche",
+            "prof-pablofigueroa"
+        ],
+        "foto": "desarrolloValientes.png",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/JuanCamiloUsecheRodriguez/ROOM360",
+        "lastUpdated": "2022-11-22"
+    },
+    {
+        "id": 5,
+        "nombreProyecto": "Escape VR",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "El proyecto es un juego cooperativo de realidad virtual que sigue la dinámica de un escape room. Esto significa que los jugadores, en este caso dos, estarán sumergidos en un entorno virtual ambientado en la época medieval y estos tendrán la tarea de resolver distintos acertijos para lograr escapar de su encierro. Asimismo, los acertijos a los cuales se enfrentarán evaluarán sus habilidades para trabajar en equipo y comunicar sus ideas.",
+        "integrantes": [
+            "ugrad-alum-AngelaJimenez",
+            "ugrad-alum-AndresRincon",
+            "prof-pablofigueroa"
+        ],
+        "foto": "escapeVR.png",
+        "video": "https://www.youtube.com/embed/WK2SxbgI36U",
+        "link": "",
+        "repository": "https://github.com/AngelaJimenez/ColabVRTesis",
+        "lastUpdated": "2022-11-22"
+    },
+    {
+        "id": 6,
+        "nombreProyecto": "Three-dimensional path definning and following for drones supported by virtual reality technology.",
+        "grupo": "Imagine",
+        "researchArea": "Robotics",
+        "descripcion": "Investigate and design an architecture that integrates VR to the interaction with UAV drones for solving path definning and path following tasks.",
+        "integrantes": [
+            "prof-fernandodelarosa",
+            "prof-nelsonAndresSanchez"
+        ],
+        "foto": "",
+        "video": "https://www.youtube.com/embed/_lJLJAQSTYU",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-12-05"
+    },
+    {
+        "id": 7,
+        "nombreProyecto": "Diseño de sistema de planeación y seguimiento de rutas en un escenario interior con un robot móvil",
+        "grupo": "Imagine",
+        "researchArea": "Robotics",
+        "descripcion": "Desarrollo de un sistema de planeación de rutas que permita hacer la navegación de un robot P3DX dentro de un escenario interior para que sea un guia dentro del edificio Mario Laserna.",
+        "integrantes": [
+            "prof-fernandodelarosa",
+            "master-alum-franciscoDurango"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/franciscoD1202/robot_guide",
+        "lastUpdated": "2019-06-20"
+    },
+    {
+        "id": 8,
+        "nombreProyecto": "Consolidation of web and mobile architectural projects integrating Lego Mindstorm EV3.",
+        "grupo": "Imagine",
+        "researchArea": "Robotics",
+        "descripcion": "Consolidate web and mobile architectures, to deploy the existent control and programming of Lego Mindstorm EV3 robots across multiple platforms; Android, IOS and WebPages.",
+        "integrantes": [
+            "prof-fernandodelarosa",
+            "ugrad-alum-samuelBaquero"
+        ],
+        "foto": "",
+        "video": "https://www.youtube.com/embed/u2lfPUpbOe8",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2019-02-04"
+    },
+    {
+        "id": 9,
+        "nombreProyecto": "Path planning and following using genetic algorithms to solve the multi-travel salesman problem in dynamic scenarios",
+        "grupo": "Imagine",
+        "researchArea": "Robotics",
+        "descripcion": "Develop and implementation of a technique to solve the Multi-Travel Salesman Problem (MTSP) when applied to mobile robots in dynamic scenarios.",
+        "integrantes": [
+            "prof-fernandodelarosa",
+            "prof-nelsonAndresSanchez"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "http://ieeexplore.ieee.org/document/8023519/",
+        "repository": "",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 10,
+        "nombreProyecto": "Definition of an architecture for web applications integrating Lego Mindstorm EV3.",
+        "grupo": "Imagine",
+        "researchArea": "Robotics",
+        "descripcion": "Define a base software architecture for the creation of web applications for operation, control and programming of Lego Mindstorm EV3 robots.",
+        "integrantes": [
+            "prof-fernandodelarosa",
+            "ugrad-alum-eduardoCabello"
+        ],
+        "foto": "",
+        "video": "https://www.youtube.com/embed/u2lfPUpbOe8",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-02-19"
+    },
+    {
+        "id": 11,
+        "nombreProyecto": "Harmony",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Harmony es una herramienta de aprendizaje de drumps con Unity, Oculus y Photon. La idea es crear el ambiente perfecto para aprender a tocar la batería. Los músicos y los alumnos pueden tener un espacio para practicar y desarrollar nuevas habilidades mientras un maestro o un amigo los guía a través del proceso.",
+        "integrantes": [
+            "ugrad-alum-AngelaJimenez",
+            "ugrad-alum-AndresRincon",
+            "prof-pablofigueroa"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2022-11-22"
+    },
+    {
+        "id": 12,
+        "nombreProyecto": "Tadava - Visual Analytics Architecture for large table-based datasets",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Sampling, summarize and exploration of large table-based datasets to provide the user with a representative and understandable sample of the data.",
+        "integrantes": [
+            "prof-johnguerra",
+            "master-alum-juanCamilo"
+        ],
+        "foto": "Tadava_VisualAnalyticsArchitecture.png",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/john-guerra/elasticSearchExperiments",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 13,
+        "nombreProyecto": "Visualizing Biological Sequence Comparison Summaries for Sequence Alignment Analysis",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "This project consists in a visualization technique to summarize and compare single and multi-queries in biological sequence comparisons. After proposing a taxonomy of existing tools supporting sequence comparison, some analysis tasks were identified and prioritized according to the untapped work potential and relevance to the analyst. This project would be tested along with a group of bioinformaticians.",
+        "integrantes": [
+            "prof-johnguerra",
+            "master-alum-meiliVanegas"
+        ],
+        "foto": "Biological-sequence.png",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/mvanegas10/HMMsearch",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 14,
+        "nombreProyecto": "Visual analytics support tool",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Develop a tool for the Secretary of Government of Bogota, to store and view all the information on the City Council.",
+        "integrantes": [
+            "prof-johnguerra",
+            "ugrad-alum-estebanDalel"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/EstebanDalelR/Thesis-Viz",
+        "lastUpdated": "2018-04-04"
+    },
+    {
+        "id": 15,
+        "nombreProyecto": "Visual Analytics the Bogotá Council case",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "This project will be focused in making the data flow to the correct stakeholders, making the middleman’s job easier and dynamizing its use. The forms for data input will be simplified, the data will be reorganized and stored for future use, and visualizations will be made regarding the user’s best interests.",
+        "integrantes": [
+            "prof-johnguerra",
+            "ugrad-alum-estebanDalel"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/EstebanDalelR/Thesis-Viz",
+        "lastUpdated": "2018-02-19"
+    },
+    {
+        "id": 16,
+        "nombreProyecto": "DataViz widget for summarizing and navigating large lists of items",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Develop a UI framework which will allow users to navigate big photo repositories. Using a dimension system, the user will be able to switch the photos they're visualizing depending on the predefined attribute that has been chosen.",
+        "integrantes": [
+            "prof-johnguerra",
+            "ugrad-alum-camiloAlfonso"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/vecope/Thesis",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 17,
+        "nombreProyecto": "Accessibility Fix Tool",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Fix web applications accessibility problems without writing any code",
+        "integrantes": [
+            "prof-johnguerra",
+            "ugrad-alum-antonioDeLaVega"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/adelavegaf/magically",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 18,
+        "nombreProyecto": "Interpretable and Interactive Machine Learning",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Machine Learning has positioned itself as a hot topic and almost as a synonym to data analysis. However, most of the current real world ML systems use models as black-boxes. Given this, the big question that arises is what about if model performance is not the unique requirement to be fulfilled?  To address this, two new sub-fields of research have been proposed to help users to interact and understand ML models, and by this opening the black-box Interactive ML and Interpretable ML. This master thesis project is developed in the context of these sub-fields, with applications to Exploratory Data Analysis (EDA) supported by the t-SNE algorithm, a common technique for dimensionality reduction of high-dimensional data. The contributions of this project are (1) provide a set of guidelines for designing more user-centric ML systems in terms of interactivity and interpretability and (2) design and develop of a visual tool to interact and interpret t-SNE models for performing EDA. The proposal is evaluated in two case studies, the animals dataset and the urban environment dataset from SALURBAL project.",
+        "integrantes": [
+            "prof-josehernandez",
+            "prof-johnguerra",
+            "master-alum-fabianPenna"
+        ],
+        "foto": "InterpretableML.png",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2019-02-04"
+    },
+    {
+        "id": 19,
+        "nombreProyecto": "Using ML to produce tactile graphics for the blind",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Develop a machine learning tool able to identify the object present in an image and provide a tactile graphic of it.",
+        "integrantes": [
+            "prof-johnguerra",
+            "ugrad-alum-felipeMartinez"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 20,
+        "nombreProyecto": "Node Navigator: Summarizing and Navigating Multivariate Data",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Navigation, summarization and exploration of large repositories of images and videos in multiple dimensions without losing the context of the data",
+        "integrantes": [
+            "prof-johnguerra",
+            "ugrad-alum-juanGuillermo"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/jgmurillo10/thesis",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 21,
+        "nombreProyecto": "PhotoRing: Visual Analytics Architecture for Exploring Large Repositories of Photos",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "An efficent architecture for the exploration of big photo datasets to provide the user with a representative and understandable sample of the data .",
+        "integrantes": [
+            "prof-johnguerra",
+            "ugrad-alum-davidDelgado",
+            "ugrad-alum-davidLaiton"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/nonameable/thesis",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 22,
+        "nombreProyecto": "Exploring treemaps for summarizing and navigating image galleries",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Treemaps are an important and useful tool to navigate and visualize image galleries. Images repositories has grown in size and now there is the need of a tool that allows to navigate and find meaningful insights in a straightforward way.",
+        "integrantes": [
+            "prof-johnguerra",
+            "ugrad-alum-luisMesa"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/john-guerra/photoTreemap",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 23,
+        "nombreProyecto": "Best practices for Architecting Data Analytics",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Figure out the best practices for architecting applications to analyze and visualize large data, by using benchmarking techniques which allow to recomend the best software tools to develop Visual Data Analytics applications with structured, stream and graph data",
+        "integrantes": [
+            "prof-johnguerra",
+            "master-alum-camiloMera"
+        ],
+        "foto": "Practices-data-analytics.png",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/lincex7845/bestPract-DA",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 24,
+        "nombreProyecto": "Analyzing news articles to answer research questions",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Apply NLP techniques to a database of NYT articles. COMPLETE",
+        "integrantes": [
+            "prof-johnguerra",
+            "ugrad-alum-nicolarChavez"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 25,
+        "nombreProyecto": "Visual analytics support tool",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Develop a tool for researchers to help them summarize, annotate and compare results from studies on the medical field.",
+        "integrantes": [
+            "prof-johnguerra",
+            "ugrad-alum-estebanDalel"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/EstebanDalelR/Thesis-Viz",
+        "lastUpdated": "2018-02-09"
+    },
+    {
+        "id": 26,
+        "nombreProyecto": "Interactive segmentation of 3D biomedical images",
+        "grupo": "Imagine",
+        "researchArea": "Image Processing",
+        "descripcion": "Develop an interactive segmentation tool to either manually segment one or various organs or regions of interest, or correct an existing segmentation obtained using an automatic segmentation algorithm.",
+        "integrantes": [
+            "prof-marcelahernandez",
+            "ugrad-alum-rogeliogarcia"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-02-19"
+    },
+    {
+        "id": 27,
+        "nombreProyecto": "Global, regional and local recruitment of the lungs taking into account the deformation.",
+        "grupo": "Imagine",
+        "researchArea": "Image Processing",
+        "descripcion": "The goal of this project is to create global, regional and local recruitment algorithms that take into account the volume difference of inspiration and expiration images by using the determinant of the jacobian of their transformation. With this, we want to find the best way to calculate the aeration of the lungs and assist medical professionals in choosing the best parameters to treat ARDS patients with mechanical ventilation.",
+        "integrantes": [
+            "prof-marcelahernandez",
+            "ugrad-alum-margaritaGomez",
+            "ugrad-alum-camilaGarcia",
+            "collab-maciejOrkisz"
+        ],
+        "foto": "poumon_final.png",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-02-19"
+    },
+    {
+        "id": 28,
+        "nombreProyecto": "CAAVAT - Computer Assisted Analysis of Visceral Adipose Tissue (VAT) on CT Images",
+        "grupo": "Imagine",
+        "researchArea": "Image Processing",
+        "descripcion": "We have developed an automatic VAT quantification technology using an innovative technique for the segmentation of CT images in the abdominal region. The software captures CT images as an input and then automatically segments the existing VAT as well as the Subcutaneous Adipose Tissue (SAT). We were granted a patent in Colombia, Japan, USA, and Europe. For more information, please access patent No.WO/2015/172753.",
+        "integrantes": [
+            "prof-marcelahernandez",
+            "master-alum-ricardoMendoza"
+        ],
+        "foto": "CAAVAT.jpg",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2019-09-02"
+    },
+    {
+        "id": 29,
+        "nombreProyecto": "Automatic image analysis applied to the characterization of microstructural powder metallurgy",
+        "grupo": "Imagine",
+        "researchArea": "Image Processing",
+        "descripcion": "In this project we created a method of processing the powder metallurgy process known as metal powder. The proposed method analyzes the roundness of pores automatically using image processing, saving time and avoiding errors incurred when analysis is performed manually. The results show that the proposed method is consistent with the manual analysis by an expert.",
+        "integrantes": [
+            "prof-marcelahernandez",
+            "phd-alum-diegorodriguez",
+            "ugrad-alum-danielwilches"
+        ],
+        "foto": "imageanalysismetallurgy.jpg",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2009-12-01"
+    },
+    {
+        "id": 30,
+        "nombreProyecto": "Astronomical image processing from large all-sky photometric surveys for the detection and measurement of transients",
+        "grupo": "Imagine",
+        "researchArea": "Image Processing",
+        "descripcion": "Develop an efficient and accurate pipeline for the detection of transient-like events on astronomical images for the LSST.",
+        "integrantes": [
+            "prof-marcelahernandez",
+            "phd-alum-juanPabloReyes"
+        ],
+        "foto": "LSST.jpg",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-02-19"
+    },
+    {
+        "id": 31,
+        "nombreProyecto": "Interacciones pseudohápticas en realidad virtual",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "prof-vivianGomez",
+            "master-sebastianCalvache",
+            "master-valentinaUribe",
+            "collab-markusTatzgen"
+        ],
+        "foto": "Pseudohaptics.PNG",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 32,
+        "nombreProyecto": "3D-Animation-With-XR",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-andresSandoval"
+        ],
+        "foto": "3dAnimationWithXR.PNG",
+        "video": "https://www.youtube.com/embed/foF39S0gu_g",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 33,
+        "nombreProyecto": "3RCity",
+        "grupo": "Imagine",
+        "researchArea": "Video Games",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-omarPino",
+            "ugrad-alum-sergioMadera",
+            "ugrad-alum-juanCamacho",
+            "ugrad-alum-joseRiano"
+        ],
+        "foto": "3RCity.PNG",
+        "video": "",
+        "link": "https://www.newgrounds.com/portal/view/701972",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 34,
+        "nombreProyecto": "Adaptic, A Shape Changing Prop with Haptic Retargeting",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "A Shape Changing Prop with Haptic Retargeting",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "master-alum-johannGonzalez",
+            "collab-robTeather",
+            "collab-johnCMcClelland",
+            "collab-audreyGirouard"
+        ],
+        "foto": "adaptic.jpg",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 35,
+        "nombreProyecto": "ADD SCAPE",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "prof-vivianGomez"
+        ],
+        "foto": "addscape.PNG",
+        "video": "https://www.youtube.com/embed/hTaPmFHje3M",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 36,
+        "nombreProyecto": "ADD SCAPE V 2.0",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-juanCorrea",
+            "ugrad-alum-AndresBejarano"
+        ],
+        "foto": "addscapeV2.PNG",
+        "video": "https://www.youtube.com/embed/mbAbzxoia-Y",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 37,
+        "nombreProyecto": "Prototipo consola de ingeniería en realidad virtual y simulación en el entrenamiento de tripulaciones de la flota naval de la armada de Colombia",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "prof-vivianGomez"
+        ],
+        "foto": "p75926.jpg",
+        "video": "https://www.youtube.com/embed/ScdDqaJFiPg",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 38,
+        "nombreProyecto": "Aplicativo para entrenamiento basado en realidad virtual y pseudo-hápticas",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Este proyecto, desarrollado en la sala Colivri como tesis de grado, es un aplicativo de inmersión en realidad virtual utilizando tecnologías pseudo-hápticas, para el entrenamiento de la tripulación de los buques OPV de la Armada Nacional de Colombia, en el manejo de la consola de ingeniería. En el proyecto se realiza la calibración entre la consola virtual y una maqueta a escala real de la consola de ingeniería, para interactuar con todos sus botones, indicadores y palancas, con el fin de entrenarse en su operación.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "prof-vivianGomez",
+            "ugrad-nicolasRueda"
+        ],
+        "foto": "Foto_Entrenamiento_Armada.png",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 39,
+        "nombreProyecto": "Balance Universal",
+        "grupo": "Imagine",
+        "researchArea": "Video Games",
+        "descripcion": "A serious game about balancing your life",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-julianMendoza",
+            "ugrad-alum-julioMorales",
+            "ugrad-alum-andresGonzalez"
+        ],
+        "foto": "img_balanceUniversal.png",
+        "video": "",
+        "link": "https://pg-21ii-2.itch.io/balance-universal-beta",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 40,
+        "nombreProyecto": "Boom Away",
+        "grupo": "Imagine",
+        "researchArea": "Video Games",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-pabloSuarez",
+            "ugrad-alum-danielPardo",
+            "ugrad-alum-andresLosada"
+        ],
+        "foto": "boomAway.PNG",
+        "video": "https://www.youtube.com/embed/IFVkVLKDt18",
+        "link": "",
+        "repository": "https://github.com/pardo312/BoomAway",
+        "lastUpdated": ""
+    },
+    {
+        "id": 41,
+        "nombreProyecto": "Diseño y oferta de cajas fuertes por medio del uso de RV",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-danielCagua"
+        ],
+        "foto": "cajasRV.PNG",
+        "video": "https://www.youtube.com/embed/QkkgoSvTPHk",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 42,
+        "nombreProyecto": "Corruptio",
+        "grupo": "Imagine",
+        "researchArea": "Video Games",
+        "descripcion": "Mediante un proceso de desarrollo ágil de software se produjo un videojuego capaz de retratar dificultades asociadas al mandato público. Se sitúa al jugador como dirigente de una ciudad que responde visualmente a sus decisiones. A través de asignaciones de presupuesto y decisiones dilemáticas aleatorias, este deberá buscará el balance entre la satisfacción de seis sectores claves para su territorio.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-andresSanchez",
+            "ugrad-alum-santiagoGamboa",
+            "ugrad-alum-nicolasFajardo"
+        ],
+        "foto": "corruptio.png",
+        "video": "https://www.youtube.com/embed/grDYLl6gy_Y",
+        "link": "",
+        "repository": "https://github.com/nfajardor/corruptio",
+        "lastUpdated": ""
+    },
+    {
+        "id": 43,
+        "nombreProyecto": "Dare to chat",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "This project is built as a prototype of a serious videogame directed to the construction of peace in the Colombian context. We ask participants to identify themselves with a made-up profile, and collaborate with people that are different to their profile. In this indirect way, we pursue the construction of peace by encouraging the conversation among people with different points of view. Preliminary user studies show that our prototype encourages collaboration among participants.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "master-alum-fmedina"
+        ],
+        "foto": "daretochat.png",
+        "video": "https://www.youtube.com/embed/2eZZbDEcuIo",
+        "link": "http://cleilaclo2018.mackenzie.br/docs/SLIS/182655.pdf",
+        "repository": "",
+        "lastUpdated": "2017-11-30"
+    },
+    {
+        "id": 44,
+        "nombreProyecto": "DAVID",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Strategic plan for the Videogame and Animation Industries",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "collab-eliecergutierrez",
+            "collab-dariocorreal",
+            "collab-oscargonzalez"
+        ],
+        "foto": "Header-DAVID.png",
+        "video": "http://juegos.virtual.uniandes.edu.co/",
+        "link": "http://juegos.virtual.uniandes.edu.co/",
+        "repository": "",
+        "lastUpdated": "2015-12-31"
+    },
+    {
+        "id": 45,
+        "nombreProyecto": "Domicilio Survivor",
+        "grupo": "Imagine",
+        "researchArea": "Video Games",
+        "descripcion": "You are a delivery man who must deliver a package as quickly as possible. However, there are a number of annoying road signs throughout the city. Will you respect it, or will you risk your life in order to be the fastest delivery man in town?",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-santiagoSerrano",
+            "ugrad-alum-carlosOrduz",
+            "ugrad-alum-jesusCarcamo"
+        ],
+        "foto": "img_domicilioSurvivor.png",
+        "video": "",
+        "link": "https://berserker1523.itch.io/domicilio-survivor",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 46,
+        "nombreProyecto": "Training in seismic safety practices using virtual reality",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "El proyecto busca apoyar el aprendizaje de las medidas de prevención y protocolos de seguridad que se deben aplicar para estar mejor protegidos y preparados ante un sismo. Esto a través del desarrollo de un videojuego de realidad virtual que mejora la retención del conocimiento. (Unidad, Oculus Rift). Participante del primer Laboratorio Abierto de Realidades Mixtas (2019, Universidad de los Andes).",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-camiloZambrano",
+            "ugrad-alum-zulmaCastaneda",
+            "master-alum-camiloUseche"
+        ],
+        "foto": "earthquakeSimulator.PNG",
+        "video": "https://www.youtube.com/embed/UEEGDM1uYMY",
+        "link": "",
+        "repository": "https://github.com/JuanCamiloUsecheRodriguez/Earthquake-simulation",
+        "lastUpdated": "2019-02-06"
+    },
+    {
+        "id": 47,
+        "nombreProyecto": "A Multiplatform Tool for Comparing Users Behavior in Virtual Museum Environments",
+        "grupo": "Imagine",
+        "researchArea": "",
+        "descripcion": "In this project we analyze visitor's behavior in an interactive virtual museum, and how it differentiates depending on the exploration environment. In order to achieve this, a tool with instances for a head-mounted display (Oculus Quest) and a conventional device (Web browser) will be made, using 3D models of archaeological artifacts from the Luis Raúl Rodríguez Lamus Collection - Uniandes.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "master-alum-leonardobareno"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2020-07-01"
+    },
+    {
+        "id": 48,
+        "nombreProyecto": "Gemelo Digital de Colivri",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "El proyecto Gemelo Digital de Colivri se presenta como una vanguardista plataforma de experimentación sobre gemelos digitales, aprovechando el potencial de diversas herramientas de realidad mixta. Este sistema, apoyado por el Departamento, no sólo busca ofrecer funcionalidades innovadoras como un panel de control de gran formato que facilita la monitorización en tiempo real del laboratorio y simulaciones audiovisuales, sino también establecer una infraestructura robusta para el desarrollo de proyectos de grado grupales. Con una visión a largo plazo, GD-Colivri pretende ser una plataforma abierta y extensible, permitiendo la integración de realidad aumentada para visualizar información detallada de los equipos presentes, así como datos históricos y dinámicos de los usuarios y el entorno.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "prof-vivianGomez",
+            "ugrad-juanEsteban",
+            "ugrad-melissaContreras",
+            "ugrad-juanAlegria",
+            "ugrad-julianMora",
+            "ugrad-nicolasFalla",
+            "master-valentinaUribe"
+        ],
+        "foto": "GD-COLIVRI.png",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2023-10-17"
+    },
+    {
+        "id": 49,
+        "nombreProyecto": "Training for hazard identification using VR.",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Training for hazard identification using VR.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-santiagoBeltran"
+        ],
+        "foto": "VR_HazardIdentification.png",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2017-08-04"
+    },
+    {
+        "id": 50,
+        "nombreProyecto": "Human-in-the-loop mobile device interfaces for ground vehicles and articulated robots.",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "The lack of a formal taxonomy for mobile devices interfaces for robotic systems is an existing gap. Because of this, mobile device interfaces for ground vehicles and articulated robots are being developed without a proper guide, and this leads to additional trial and error stages or iterations in the development process.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "collab-martinjagersand",
+            "phd-alum-diegorodriguez"
+        ],
+        "foto": "",
+        "video": "https://www.youtube.com/embed/_uDw9Px8gBg",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2017-12-31"
+    },
+    {
+        "id": 51,
+        "nombreProyecto": "Mental health, between human and virtual influencers: A Netnographic Study",
+        "grupo": "Imagine",
+        "researchArea": "Human Computer Interaction",
+        "descripcion": "Social media has become a powerful platform for the creation and spread of content, including fashion, sports, well-being, and mental health. This paper presents a netnographic study comparing two human influencers with two virtual influencers, examining post captions and images or videos during the official Covid-19 time frame. The aim is to analyze the content they publish in their community around mental health.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "master-valentinaRozo"
+        ],
+        "foto": "influencersVirtuales.png",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2023-10-17"
+    },
+    {
+        "id": 52,
+        "nombreProyecto": "JuegoPolitico",
+        "grupo": "Imagine",
+        "researchArea": "Video Games",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-andresSanchez",
+            "ugrad-alum-santiagoGamboa",
+            "ugrad-alum-nicolasFajardo"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 53,
+        "nombreProyecto": "Learning how to dance in VR",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "A VR environment to enable people to learn coreographies, based in diferent motion learning theorems and interactive flat and 3D surfaces.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "master-alum-julianaMM"
+        ],
+        "foto": "",
+        "video": "https://www.youtube.com/embed/W1prd3MMN0A",
+        "link": "",
+        "repository": "https://github.com/jmontes495/ProtoT2",
+        "lastUpdated": "2018-02-19"
+    },
+    {
+        "id": 54,
+        "nombreProyecto": "The Influence of Metaverse Environment Design on Learning Experiences in Virtual Reality Classes: A Comparative Study",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "We are interested in how metaverse technologies can provide an environment for future virtual education, beyond traditional videoconferencing technologies. In this study, we investigate learning and the quality of the classroom experience by conducting classes in four metaverse environments: Workrooms, Spatial, Mozilla Hubs, and Arthur. Through the analysis of questionnaires, we assess the influence of factors such as avatars, spatial arrangement, mobility, and extra functionalities on concentration, usability, presence, and learning. While we did not observe significant differences in learning outcomes, our analysis reveals substantial variations in the quality of the classroom experience. Specifically, higher levels of immersion, concentration, and presence were observed in metaverses with limited movement and functionalities. Also, our findings emphasize the positive impact of avatars with realistic facial expressions on enhancing the overall learning experience. Finally, we present lessons learned and offer recommendations for class configurations in the metaverse based on our questionnaire analysis.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "prof-vivianGomez",
+            "master-valentinaUribe"
+        ],
+        "foto": "metaversosEducativos.jpg",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2023-10-17"
+    },
+    {
+        "id": 55,
+        "nombreProyecto": "Micro-Simulation Model for Vehicular and Pedestrian Traffic using CUDA",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "The objetive of this project is to make a simulation of a zone of Bogotá with 3 type of entities (pedestrians, vehicules and Transmilenio -a large vehicule-), using CUDA to accelerate the processing.\n",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "phd-alum-diegorodriguez"
+        ],
+        "foto": "MicroTrafficCUDA.png",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-02-06"
+    },
+    {
+        "id": 56,
+        "nombreProyecto": "Realidad virtual aplicada al curso del minuto de oro en reanimación Neonatal para trabajadores de la salud",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "master-alum-kellyPenaranda",
+            "prof-vivianGomez"
+        ],
+        "foto": "neonatos.jpeg",
+        "video": "https://www.youtube.com/embed/FQgroO2jkbw",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 57,
+        "nombreProyecto": "Orthaptica",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "master-alum-davidMayorga"
+        ],
+        "foto": "orthaptica.PNG",
+        "video": "https://www.youtube.com/embed/8GRNaO_yHlA",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 58,
+        "nombreProyecto": "Paper and Pencil",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Paper and Pencil project presents a sketch-based interface that allows any user to create a 3D animation from a pencil and paper sketch.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "phd-alum-diegorodriguez"
+        ],
+        "foto": "paperandpencil.png",
+        "video": "https://www.youtube.com/embed/zHOyrMYZUMk",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2015-12-31"
+    },
+    {
+        "id": 59,
+        "nombreProyecto": "Passive Haptics Training",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "It aims to measure the learning of users by comparing the completion of tasks with Passive Haptics and traditional controls.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "master-alum-fmedina"
+        ],
+        "foto": "passivehaptics.jpg",
+        "video": "https://drive.google.com/file/d/1DiLl3HgRCpjr0ES3fcJxCCOAuzN269AI/preview",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2019-02-11"
+    },
+    {
+        "id": 60,
+        "nombreProyecto": "Perceived Space and Spatial Performance during Path-Integration Tasks in Consumer-Oriented Virtual Reality Environments",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "postdoc-joseDorado"
+        ],
+        "foto": "perceivedSpace.PNG",
+        "video": "",
+        "link": "https://ieeexplore-ieee-org.ezproxy.uniandes.edu.co:8443/document/8798344",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 61,
+        "nombreProyecto": "Programacion Interactiva Daydream",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": null,
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-rafaelForero"
+        ],
+        "foto": "programacionInteractivaDaydream.PNG",
+        "video": "https://www.youtube.com/embed/Hv3TocOUFe8",
+        "link": "",
+        "repository": "",
+        "lastUpdated": ""
+    },
+    {
+        "id": 62,
+        "nombreProyecto": "Sensibilización en el proceso de reparación de tierras",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "El proyecto tiene como objetivo dar a conocerlas etapas que se llevan a cabo durante unproceso de reparación de tierras, así comogenerar conciencia y sensibilizar respecto a ladificultad del mismo. Para esto se plantea unvideojuego de tipo simulación a través del uso de la realidad virtual",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-yesidBejarano",
+            "ugrad-alum-juanManuelMuñoz",
+            "ugrad-alum-juanSebastianArciniegas"
+        ],
+        "foto": "reparacionTierras.PNG",
+        "video": "https://www.youtube.com/embed/BknTOvWK6OU",
+        "link": "",
+        "repository": "https://github.com/yabejarano10/Tesis",
+        "lastUpdated": ""
+    },
+    {
+        "id": 63,
+        "nombreProyecto": "Rooms360",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "The objective of this project is generate Immersive 3D Virtual Reality tours with the render of 360° images that allow the user the exploration, customization and interaction with the scene",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "master-alum-fmedina"
+        ],
+        "foto": "rooms360.png",
+        "video": "https://www.youtube.com/embed/T9FF7vvoRd0",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-09-11"
+    },
+    {
+        "id": 64,
+        "nombreProyecto": "RoomsVR",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "IFrom the measurements / dimensions of a place it is possible to generate virtual spaces, additionally with photographs a material can be generated to be used in the floors and walls. The configuration of this project is done through a JSON file and builds the scene depending on it. Concepts such as Tiling, Shaders, Materials, Textures, Dimensions, Lighting are worked on.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "master-alum-fmedina"
+        ],
+        "foto": "roomsvr.png",
+        "video": "https://www.youtube.com/embed/mrSgmlmEYdA",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-10-09"
+    },
+    {
+        "id": 65,
+        "nombreProyecto": "Analysis of graphics performance for SandyBridge Intel-Processor",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Sandy brige is the name given to the architecture used in the intelligent processors of second generation developed by Intel. The main characteristic is the integration of the Graphics Processing Unit (GPU) in the same die of the Central Processing Unit (CPU) which enables to perform graphic processing without the need of using an external discrete graphic card. This also gives adventages in terms of performace, such as the Intel Quick Sync technology which carries out a quick transcoding of high resolution videos.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "phd-alum-diegorodriguez"
+        ],
+        "foto": "SandyBridgeIntel.jpg",
+        "video": "",
+        "link": "https://sites.google.com/site/sandybridgeproject/",
+        "repository": "",
+        "lastUpdated": "2011-12-31"
+    },
+    {
+        "id": 66,
+        "nombreProyecto": "Shades of my Soul",
+        "grupo": "Imagine",
+        "researchArea": "Video Games",
+        "descripcion": "El proyecto de grado se basa en la idea de conformar un equipo de diseño de videojuegos, donde buscando nuevas formas de gameplay o mecánicas, se logre desarrollar un videojuego terminado y divertido basado en el desarrollo en equipo y en la unión de metodologías de desarrollo.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-juanPabloOtalora",
+            "ugrad-alum-eliasNegrete"
+        ],
+        "foto": "shadesOfMySoul.png",
+        "video": "https://www.youtube.com/embed/wpGb45UeoVs",
+        "link": "",
+        "repository": "https://github.com/JuanOtalora/Shades",
+        "lastUpdated": ""
+    },
+    {
+        "id": 67,
+        "nombreProyecto": "Simulación vehículos autonomos a partir del análisis de tráfico en Bogotá",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "Este proyecto de grado consiste en el diseño e implementación de un sistema para la generación de simulaciones de vehículos autónomos a partir del análisis de video, en el software open source CARLA. Las simulaciones son una de las partes más importantes y fundamentales de la conducción automática. Sin embargo, la creación de simulaciones realistas, necesarias para el testeo adecuado de estos vehículos, suelen ser costosas y complejas. Por esta razón, el proyecto hacer uso de videos para automatizar la creación de simulaciones a partir de patrones identificados en el análisis de video.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "ugrad-alum-lauraForero"
+        ],
+        "foto": "simulacionesVehiculosAutonomos.png",
+        "video": "https://www.youtube.com/embed/GFKQv1j6vpQ",
+        "link": "",
+        "repository": "https://github.com/Lala341/SimulationCARLA",
+        "lastUpdated": ""
+    },
+    {
+        "id": 68,
+        "nombreProyecto": "A perceptual calibration method to improve the spatial performance on VR displays",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "The project is focused in the development of a perceptual calibration method to improve the spatial performance on virtual reality displays for distance-related spatial tasks.",
+        "integrantes": [
+            "prof-pablofigueroa",
+            "prof-josehernandez",
+            "postdoc-joseDorado"
+        ],
+        "foto": "VR_SpatialPerformance.png",
+        "video": "https://youtu.be/RvdMAa9-Nvo",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-02-21"
+    },
+    {
+        "id": 69,
+        "nombreProyecto": "Ambiente VR para preparar presentaciones en público",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Desarrollar un ambiente en realidad virtual, similar a un salon de clases, para ayudar a preparar presentaciones en público a partir del proyecto STAGE desarrollado anteriormente por la Universidad de Würzburg en Unreal Engine.",
+        "integrantes": [
+            "ugrad-alum-GabrielaCaballero",
+            "prof-pablofigueroa"
+        ],
+        "foto": "presentacionesVR.png",
+        "video": "https://www.youtube.com/embed/nDPP78MRtxM",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2022-12-11"
+    },
+    {
+        "id": 70,
+        "nombreProyecto": "BIM-based mixed reality applications to improve human decision-making during the construction process",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "This PhD thesis project aims to propose mixed reality applications to improve human decision-making during the construction process, in particular during the pre-construction and construction phases.",
+        "integrantes": [
+            "prof-josehernandez",
+            "prof-pablofigueroa",
+            "phd-alum-praimbaud"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2019-09-02"
+    },
+    {
+        "id": 71,
+        "nombreProyecto": "Bogotá Metro InfoVis",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "\"Bogotá city is going to build a metro system in the next few years. The Institute for urban development (IDU) from Bogotá wants to have an overview of the impact of this change in the inhabitants and also to have a study for value capture in order to finance the system. Along with the school of architecture, the group for urban and regional sustainability (SUR) from Universidad de los Andes have proposed a study for value capture and urban planning using a transit oriented development system.\n",
+        "integrantes": [
+            "prof-josehernandez",
+            "phd-alum-juanCamiloIbarra"
+        ],
+        "foto": "MetroBogota.png",
+        "video": "",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2018-02-06"
+    },
+    {
+        "id": 72,
+        "nombreProyecto": "Method of extrapolation of anatomical context sensitive interest regions for subject cohortes analysis in brain tractographies",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "The study of the brain is becoming a focus of interest using computers in order to obtain new information and prepare standard calculations valuable for doctors. In this project, a new algorithm was made  for BRAVIZ () for extrapolating regions of interest that depends on anatomical context for the analysis of brain tractografies. This new algorithm uses linear interpolation methods in order to reduce the distance from the calculated regions against a region set by an expert in brain research.",
+        "integrantes": [
+            "prof-josehernandez",
+            "ugrad-alum-camiloescobarv"
+        ],
+        "foto": "braintractographies.jpg",
+        "video": "https://www.youtube.com/embed/_txcGeJd6gZw)",
+        "link": "http://diego0020.github.io/braviz/index.html",
+        "repository": "https://github.com/caev03/Braviz",
+        "lastUpdated": ""
+    },
+    {
+        "id": 73,
+        "nombreProyecto": "Visual Analytics applied to the growth of preterm infants in their first year of life",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "More than 1 in 10 babies are born preterm, affecting families all around the world, in Colombia about 12% are preterm births. Kangaroo Foundation has helped this babies with the application of KMC as a standard practice in neonatal care. In 20 year this foundation has collected valuate information about growth of this population, and in this project we want to explore this data to find patterns and determine variables that affect the growth in this babies.",
+        "integrantes": [
+            "prof-josehernandez",
+            "ugrad-alum-deisydiaz"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "http://analiticafundacioncanguro.com/",
+        "repository": "",
+        "lastUpdated": "2017-05-19"
+    },
+    {
+        "id": 74,
+        "nombreProyecto": "Multimodal training simulator about orthopedics surgical reduction as residency module",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "This project trains orthopedical resident students from FSFB to achieve the reduction process during the osteosynthesis in  the trauma surgery.",
+        "integrantes": [
+            "prof-josehernandez",
+            "master-alum-davidMayorga"
+        ],
+        "foto": "Orthaptica.jpg",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/nfajardor/corruptio",
+        "lastUpdated": "2019-02-04"
+    },
+    {
+        "id": 75,
+        "nombreProyecto": "Interactive Urban Spatio-Temporal Data Exploration A Web Approach",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "The analysis of spatio-temporal heterogeneous data is considered as a big challenge due to the emerging of vast quantities of such information that considers the resolution of the questions “what, when and where”. Thus, in urban planning such analysis, through visual analytics, represent a big yearn to experts to get to know perhaps hidden and valuable information, supporting their decision making. This emerging field has various investigations which are briefly mentioned in order to get an idea of what is currently done and how. In this order of ideas, experts on the field, through this brief approximation, can get a notion of how the data is structured and, through the very best visualization to represent the current data selection of interest, regarding spatio-temporality, get an overview of the dataset as a whole. This article presents a web approach to offer exploration tools of spatio-temporal data. This proposal is illustrated by a first prototype to show its technical feasibility and, a review of differents proposals is presented and how, based on its analysis, is structured this proposal and its future evaluation.",
+        "integrantes": [
+            "prof-josehernandez",
+            "master-alum-miguelFeijoo"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/miguelfeijoo/miguelfeijoo.github.io/tree/master/TesisMINE",
+        "lastUpdated": "2019-02-04"
+    },
+    {
+        "id": 76,
+        "nombreProyecto": "Agent-based urban segregation model and visualization proposal",
+        "grupo": "Imagine",
+        "researchArea": "Visual Analytics",
+        "descripcion": "This project presents a model for urban segregation based on three different agents, those are, householders, investors and promoters. Using a simple visualization tool, it is possible to interact with the steps of the simulation from the model. This proposal creates an interaction of an artificial intelligence tool and an economic simulation in a spatial context. The model was validated following steps of previous models presented along with an expert in urban planning. This is considered a first proposal that allows the urban planner to understand the systematic behavior of the agents under an economic and spatial context.",
+        "integrantes": [
+            "prof-josehernandez",
+            "master-alum-meiliVanegas"
+        ],
+        "foto": "",
+        "video": "",
+        "link": "",
+        "repository": "https://github.com/mvanegas10/kobdig-validation",
+        "lastUpdated": "2016-12-07"
+    },
+    {
+        "id": 77,
+        "nombreProyecto": "Wizard Chess",
+        "grupo": "Imagine",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Wizard Chess  es un ajedrez por control de voz en realidad virtual cuyo objetivo principal es incentivar a personas que han tenido poco contacto con el ajedrez a jugarlo de una manera más entretenida. Para ello se creó un juego multijugador cooperativo en el cual el usuario puede comandar las fichas por medio de su voz en un escenario con un ambiente mágico.",
+        "integrantes": [
+            "ugrad-alum-nicolasCalero",
+            "ugrad-alum-santiagoTangarife",
+            "ugrad-alum-DanielUseche",
+            "prof-pablofigueroa"
+        ],
+        "foto": "wizardChess.jpg",
+        "video": "https://www.youtube.com/embed/2rnAn1-6BMY",
+        "link": "",
+        "repository": "",
+        "lastUpdated": "2022-12-11"
+    }
+]
