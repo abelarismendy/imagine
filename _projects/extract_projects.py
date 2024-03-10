@@ -16,7 +16,7 @@ def md_to_json(md_folder, json_file):
                 imagen = post['image'].split('/')[-1] if 'image' in post else ""
                 research_area = post['research_area'] if 'research_area' in post else post['research area'] if 'research area' in post else ""
                 last_updated = datetime.datetime.strftime(post['last-updated'], '%Y-%m-%d') if 'last-updated' in post else ""
-                link_match = re.search(r'href="([^"]+)"', content)
+                link_match = re.search(r'\[Juego\]\((.*?)\)', content) or re.search(r'href="([^"]+)"', content)
                 link = link_match.group(1) if link_match else post.get('link', "")
                 repo_match = re.search(r'https://github.com/[^\s)\n]+', content)
                 repo = repo_match.group(0) if repo_match else ""
