@@ -26,13 +26,17 @@ def md_to_json(md_folder, json_file):
                     "grupo": "Imagine",
                     "researchArea": research_area,
                     "descripcion": post['description'],
-                    "integrantes": post['people'],
                     "foto": imagen,
                     "video": video,
                     "link": link,
                     "repository": repo,
                     "lastUpdated": last_updated
                 }
+                # this for each integrante in the project key.split('-')[-1]
+                integrantes = []
+                for integrante in post['people']:
+                    integrantes.append(integrante.split('-')[-1])
+                proyecto["integrantes"] = integrantes
                 proyectos.append(proyecto)
 
     with open(json_file, 'w', encoding='utf-8') as f:

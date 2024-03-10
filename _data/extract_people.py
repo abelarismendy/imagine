@@ -10,7 +10,7 @@ def yaml_to_json(yaml_file, json_file):
         integrante = value
         if 'image' in integrante and integrante['image'].startswith('/img/people/'):
             integrante['image'] = integrante['image'][len('/img/people/'):]
-        integrantes[key] = integrante
+        integrantes[key.split('-')[-1]] = integrante
 
     with open(json_file, 'w', encoding='utf-8') as f:
         json.dump(integrantes, f, ensure_ascii=False, indent=4)
